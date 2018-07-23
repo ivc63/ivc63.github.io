@@ -5,6 +5,7 @@ ul{
 a{
   display:block;
   text-decoration: none;
+  font-size: 17px;
 }
 a:hover{
 	color: #e07070;
