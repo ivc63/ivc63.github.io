@@ -1,4 +1,7 @@
 ul{
-list-style: none;
+  list-style: none;
 }
 
+a{
+  dext-decoration: none;
+}
