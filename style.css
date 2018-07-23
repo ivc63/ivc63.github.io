@@ -6,3 +6,6 @@ a{
   display:block;
   text-decoration: none;
 }
+a:hover{
+	color: #3e41ab;
+}
