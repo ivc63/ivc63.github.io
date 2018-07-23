@@ -1,18 +1,19 @@
 ul{
   list-style: none;
 }
-
+li{
+  padding-top:5px;
+}
 a{
   display:inline-block;
   text-decoration: none;
   font-size: 17px;
 }
 a:hover{
-	color: #e07070;
+  color: #e07070;
 }
 .bottom_menu{
-	position:absolute;
-	left: 5px;
-	top: 25px;
-
+  position:absolute;
+  left: 5px;
+  top: 25px;
 }
