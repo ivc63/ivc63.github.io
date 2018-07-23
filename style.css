@@ -3,7 +3,7 @@ ul{
 }
 
 a{
-  display:block;
+  display:inline-block;
   text-decoration: none;
   font-size: 19px;
 }
@@ -13,6 +13,6 @@ a:hover{
 .bottom_menu{
 	position:absolute;
 	left: 5px;
-	top: 10px;
+	top: 15px;
 
 }
